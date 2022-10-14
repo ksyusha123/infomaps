@@ -32,6 +32,9 @@
     "category": {
       "type": "string",
       "required": true
+    },
+    "state": {
+      "type": "string"
     }
   }
 }
