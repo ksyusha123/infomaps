@@ -1,7 +1,8 @@
 {
   "collectionName": "components_data_data",
   "info": {
-    "displayName": "data"
+    "displayName": "data",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -15,6 +16,21 @@
     },
     "okn_number": {
       "type": "biginteger",
+      "required": true
+    },
+    "comment": {
+      "type": "text"
+    },
+    "type": {
+      "type": "string",
+      "required": true
+    },
+    "date": {
+      "type": "string",
+      "required": true
+    },
+    "category": {
+      "type": "string",
       "required": true
     }
   }
