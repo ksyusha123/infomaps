@@ -112,3 +112,17 @@ exports
 *.cache
 build
 .strapi-updater.json
+/dist/config/admin.js
+/dist/config/api.js
+/dist/src/components/coordinates/coordinates.json
+/dist/src/components/data/data.json
+/dist/config/database.js
+/dist/src/components/geometry/geometry.json
+/dist/src/index.js
+/dist/config/middlewares.js
+/dist/src/api/okn/controllers/okn.js
+/dist/src/api/okn/routes/okn.js
+/dist/src/api/okn/services/okn.js
+/dist/src/api/okn/content-types/okn/schema.json
+/dist/config/server.js
+/dist/tsconfig.tsbuildinfo
